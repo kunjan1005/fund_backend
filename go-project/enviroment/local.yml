@@ -1,0 +1,9 @@
+env: DEV
+server:
+  port: 3300
+  host: "localhost:"
+
+database:
+  db_name: FUND_DB,
+  user_name: postgres
+  password: "1234"
